@@ -7,6 +7,6 @@
   </head>
   <body>
 <button type="" class="btn btn-primary" name="button">Obtener Datos</button>
-<button type="" class="btn btn-success" name="button">Obtener Datos</button>
+<button type="" class="btn btn-success" name="button">Guardar</button>
   </body>
 </html>
